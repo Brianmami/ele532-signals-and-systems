@@ -15,4 +15,4 @@ Run each script in MATLAB.
 
 ## Notes
 
-Part D loads `ELE532_Lab1_Data.mat` (the course-provided data file), which isn't included here.
+Part D loads `ELE532_Lab1_Data.mat`, the course-provided data file in this folder.

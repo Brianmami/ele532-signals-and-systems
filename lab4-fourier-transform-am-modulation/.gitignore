@@ -1,0 +1,5 @@
+*.asv
+*.m~
+slprj/
+*.slxc
+.DS_Store
